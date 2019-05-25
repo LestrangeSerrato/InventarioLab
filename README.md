@@ -1,0 +1,2 @@
+# InventarioLab
+Sistema de Inventario 
